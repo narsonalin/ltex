@@ -6,8 +6,6 @@ Just add the path to your $PATH. Example:
 
 **USAGE**
 
-Usage: 
-
     ltex.py <option> file
 
 `<option>` is either
